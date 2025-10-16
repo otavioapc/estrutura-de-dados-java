@@ -1,0 +1,24 @@
+# ---------------------------------------------------------------- #
+# ARQUIVOS E PASTAS GERADOS PELO ECLIPSE (CONFIGURACAO E METADADOS)
+# ---------------------------------------------------------------- #
+.metadata
+.project
+.classpath
+.settings/
+
+# ---------------------------------------------------------------- #
+# ARQUIVOS DE BUILD DO JAVA (IGNORADOS EM QUALQUER SUBDIRETORIO)
+# ---------------------------------------------------------------- #
+# Binarios compilados (.class)
+*.class
+
+# Pastas de saida de compilacao em qualquer subdiretorio (CRUCIAL)
+**/bin/
+**/out/
+
+# JARs e WARs gerados
+*.jar
+*.war
+
+# Log files
+*.log
